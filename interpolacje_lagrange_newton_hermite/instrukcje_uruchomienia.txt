@@ -1,0 +1,8 @@
+W celu uruchomienia rysowania wykresu interpolacji nalezy uruchomic plik interactive_visualization.py i wybrać dostępne opcje w konsoli, l - Lagrange
+n - Newton, h - Hermite, a nastepnie nalezy podac liczbe wezlow, a na koniec podac czy chcemy korzystac z wezlow Czebyszewa czy rownoodleglych.
+
+W celu uruchomienia rysowania wykresu funkcji bledu nalezy uruchomic plik generate_error_plots.py i wybrac dostepne opcje w konsoli, l - Lagrange
+n - Newton, h - Hermite, a nastepnie nalezy podac maksymalna liczbe wezlow do ktorej chcemy badac blad, a na koniec podac czy chcemy korzystac z wezlow Czebyszewa czy rownoodleglych.
+
+W celu uruchomienia generowania tabelek z bledami nalezy uruchomic plik generate_error_tables.py i wybrac dostepne opcje w konsoli, l - Lagrange
+n - Newton, h - Hermite, a nastepnie nalezy podac maksymalna liczbe wezlow do ktorej chcemy badac blad, a na koniec podac czy chcemy korzystac z wezlow Czebyszewa czy rownoodleglych.
